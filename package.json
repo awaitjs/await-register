@@ -1,0 +1,25 @@
+{
+  "name": "await-register",
+  "version": "0.0.1",
+  "description": "Register promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaitjs/await-register.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promise",
+    "register"
+  ],
+  "author": "Enrico Marino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaitjs/await-register/issues"
+  },
+  "homepage": "https://github.com/awaitjs/await-register#readme"
+}
